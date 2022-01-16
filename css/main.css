@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff9eff;
+  background: #815e3b;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1543,7 +1543,7 @@ pre .javascript .function {
   margin-top: 40px;
   text-align: center;
 }
-.use-motion .post {
+.use-motion .post-block {
   opacity: 0;
   margin-top: 60px;
   margin-bottom: 60px;
@@ -2733,7 +2733,7 @@ mjx-container + br {
   }
 }
 body {
-  background: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01566b564ad7c86ac7251c94636b4c.jpg%401280w_1l_2o_100sh.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644918342&t=cf7ada98facf5e0f9ca2ced4a883f9a1");
+  background: url("images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -2754,4 +2754,32 @@ pre {
 code,
 pre {
   border: 1px solid #d6d6d6;
+}
+.main-inner > .sub-menu,
+.main-inner > .post-block,
+.main-inner > .tabs-comment,
+.main-inner > .comments,
+.main-inner > .pagination {
+  background: rgba(245,245,245,0.42);
+}
+body {
+  color: #000;
+}
+.posts-expand .post-title-link {
+  color: #000;
+}
+.posts-expand .post-meta-container {
+  color: #494141;
+}
+.sidebar {
+  opacity: 0.85;
+}
+.header-inner {
+  background: rgba(255,255,255,0.8);
+}
+.popup {
+  opacity: 0.8;
+}
+.main-inner {
+  opacity: 0.8;
 }
