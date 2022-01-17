@@ -9,8 +9,30 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>业精于勤，荒于嬉，行成于思，毁于随</description>
-    <pubDate>Sat, 26 Oct 1985 08:15:00 GMT</pubDate>
+    <pubDate>Mon, 17 Jan 2022 09:39:09 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>首记</title>
+      <link>http://example.com/2022/01/17/%E9%A6%96%E8%AE%B0/</link>
+      <guid>http://example.com/2022/01/17/%E9%A6%96%E8%AE%B0/</guid>
+      <pubDate>Mon, 17 Jan 2022 08:52:41 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;记录第一次搭建好博客发布&quot;&gt;&lt;a href=&quot;#记录第一次搭建好博客发布&quot; class=&quot;headerlink&quot; title=&quot;记录第一次搭建好博客发布&quot;&gt;&lt;/a&gt;记录第一次搭建好博客发布&lt;/h1&gt;&lt;p&gt; 　　时间荏苒，转眼间已经2022年，西安疫情封控已有26天</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="记录第一次搭建好博客发布"><a href="#记录第一次搭建好博客发布" class="headerlink" title="记录第一次搭建好博客发布"></a>记录第一次搭建好博客发布</h1><p> 　　时间荏苒，转眼间已经2022年，西安疫情封控已有26天，这几天爆发下降很快，基本已控制住，这几日想了半天，想写点东西，学习更多技术以外，自己也想放点什么，网上一搜，就搭个博客吧，按网上教程搭建也不是很慢，用了三天时间，基本的架子都已搭建好，选自己的网站图标很纠结，设计能力不行的我，用了一下午时间，就在看图标，最后拿了张图，自己PS改了改，花了27元买了一年域名，尽管有<code>GitHub</code>提供的网址，还是想用自己选的，就买了这个house10.vip。</p><p>　　搭建好以后，看next配置项和主题，到现在也才会了一点，继续搭建，搭建中遇到的问题，除了百度，自己卡半天一个一个试，心想不会哪条复制错了吧！，后来也是解决了。</p><p>　　本来想自己个页面，但后端不行，还没学习到位，就用快速工具组出来先，后面技术可以了，自己再写。</p><p>　　先这样吧，简单记录下。</p><hr><p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2Ftp09%2F210Z614150050M-0-lp.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644998106&t=2bd7e66dcd776b7686bf3c820f7dd617" alt="linght"></p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2022/01/17/%E9%A6%96%E8%AE%B0/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
