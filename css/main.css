@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #815e3b;
+  background: #7f60ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2733,7 +2733,7 @@ mjx-container + br {
   }
 }
 body {
-  background: url("images/background.jpg");
+  background: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2021%252F0607%252Fb913c607j00qube3e001hc000hs00a0c.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644938482&t=4e80f733a1dfe02b27c6e27b660859cf");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
